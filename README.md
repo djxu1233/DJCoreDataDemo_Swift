@@ -1,2 +1,2 @@
 # DJCoreDataDemo_Swift
-the example of CoreData used by swift in demo
+an example of CoreData used by swift in demo
